@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/himansh09078370" target="blank"><img src="https://img.shields.io/twitter/follow/himansh09078370?logo=twitter&style=for-the-badge" alt="himansh09078370" /></a> </p>
 
-- 🔭 I’m currently working on [Punar-पुस्तक](https://github.com/Himanshu25102005/Punar-Pustak)
+- 🔭 I’m currently working on [DevSync](https://github.com/Himanshu25102005/DevSync)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **himanshudusane12@gmail.com**
 
