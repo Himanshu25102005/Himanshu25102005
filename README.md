@@ -104,11 +104,18 @@
 <div align="center">
   <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu25102005&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu25102005&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div> -->
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himanshu25102005/Himanshu25102005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himanshu25102005/Himanshu25102005/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Himanshu25102005/Himanshu25102005/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 <div align="center">
