@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Designing+APIs+%26+System+Architecture;Deploying+Applications+on+Cloud;Exploring+AI+%26+Intelligent+Workflows;Turning+Complex+Problems+Into+Structured+Solutions" alt="Typing SVG" />
 </div>
-<h4 align="center">💻 I love building end-to-end applications — moving from interface to infrastructure is what drives me.<br><br>⚙️I build, deploy, debug, break, fix — and repeat — until it works the way it should.<br>From first lines of code to production systems, the journey is the reward.</h4>
+<h4 align="center">I write something for machines and they understand!</h4>
 
 ###
 
