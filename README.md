@@ -105,12 +105,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2026 - To: 10 March 2026
+From: 04 March 2026 - To: 11 March 2026
 
-JavaScript   5 hrs 6 mins          █████████████████████▓░░░   86.75 %
-Bash         26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Markdown     10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Other        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+JavaScript   3 hrs 18 mins         █████████████████████░░░░   84.32 %
+Bash         26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Other        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
