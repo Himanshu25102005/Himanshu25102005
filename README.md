@@ -105,11 +105,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2026 - To: 12 March 2026
+From: 06 March 2026 - To: 13 March 2026
 
-JavaScript   3 hrs 18 mins         █████████████████████░░░░   84.32 %
-Bash         26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Other        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+JavaScript   2 hrs 23 mins         ████████████████████░░░░░   79.81 %
+Bash         26 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+Other        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
