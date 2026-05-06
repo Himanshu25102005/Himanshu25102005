@@ -105,13 +105,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-JavaScript   12 hrs                ████████████████████████▓   98.31 %
-Markdown     11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-C++          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   13 hrs 17 mins        ██████████████████████▓░░   90.58 %
+Python       1 hr 11 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Markdown     11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
