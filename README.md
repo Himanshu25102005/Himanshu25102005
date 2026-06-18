@@ -36,7 +36,7 @@
   <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
   
   <h3>Top Projects (built to avoid manual labor)</h3>
-  <a href="https://github.com/Himanshu25102005/"><img src="https://img.shields.io/badge/Karma-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Developer focused work intelligence platform.<br>
+  <a href="https://github.com/Himanshu25102005/Karma"><img src="https://img.shields.io/badge/Karma-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Developer focused work intelligence platform.<br>
   <a href="https://github.com/Himanshu25102005/Samanyay_V2"><img src="https://img.shields.io/badge/Samanyay%20v2-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp;AI-powered legal workflow platform.<br>
   <a href="https://github.com/Himanshu25102005/LedgerFlow"><img src="https://img.shields.io/badge/LedgerFlow-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp;Financial management portal with 3 tier RBAC.
 
