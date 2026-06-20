@@ -148,6 +148,7 @@ JSON         0 secs                ░░░░░░░░░░░░░░░
       <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/express.js-%231A1A1A.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+        <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/System Design-000000?style=for-the-badge&logo=system&logoColor=white">
         <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=system&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
