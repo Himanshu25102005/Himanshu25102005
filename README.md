@@ -83,12 +83,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Python       44 mins               ██████████████░░░░░░░░░░░   56.49 %
-JavaScript   32 mins               ██████████▒░░░░░░░░░░░░░░   41.68 %
-Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JavaScript   32 mins               ████████████████▓░░░░░░░░   66.50 %
+Python       16 mins               ████████▒░░░░░░░░░░░░░░░░   33.50 %
 ```
 
 <!--END_SECTION:waka-->
