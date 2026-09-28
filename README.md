@@ -83,13 +83,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2026 - To: 26 September 2026
+From: 20 September 2026 - To: 27 September 2026
 
-JavaScript   7 hrs 47 mins         █████████████████████▒░░░   84.97 %
-Python       1 hr 19 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Text         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JavaScript   11 hrs 7 mins         ███████████████████▓░░░░░   78.65 %
+Python       2 hrs 16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Bash         39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Other        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
